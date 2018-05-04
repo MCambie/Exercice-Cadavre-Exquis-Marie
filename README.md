@@ -30,3 +30,9 @@ Mais il se demandait quand même le rapport entre git, l'oiseau et le chien mort
 Peut-être que c'est là que ça a commencé a foirer grave.
 
 Personne ne le savait.
+
+Un petit ourson se promenait
+
+Il rencontra un **GRAND** ours.
+
+Et le petit ourson fut mangé.
