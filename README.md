@@ -59,3 +59,5 @@ Mais les gars serieusement !
 Elle est **OU** l'histoire!
 
 Non je *rigole*, c 'est marrant xD
+
+Pendant ce temps-là le **GRAND** ours,ayant toujours faim s'attaqua à l'ami du petit ourson, le *blaireau* , mais celui-ci décida qu'il était temps que quelqu'un **_règle son compte_** à l'ours...
