@@ -61,3 +61,7 @@ Elle est **OU** l'histoire!
 Non je *rigole*, c 'est marrant xD
 
 Pendant ce temps-là le **GRAND** ours,ayant toujours faim s'attaqua à l'ami du petit ourson, le *blaireau* , mais celui-ci décida qu'il était temps que quelqu'un **_règle son compte_** à l'ours...
+
+Pour ce-là le *blaireau*  demanda à un loup, mais celui-ci dit "***Pourquoi demande tu ça à moi et pas aux serpents***".
+Le *blaireau* dit "***Je connais aucun serpent***".
+Le loup repont "*je vais te présenté mon amie GoBie*".
