@@ -52,3 +52,10 @@ Ah c'est juste. Je propose une minute de silence pour tous les oursons morts cet
 * "..."
 
 Clap Clap Clap, merci à tous !
+
+
+Mais les gars serieusement !
+
+Elle est **OU** l'histoire!
+
+Non je *rigole*, c 'est marrant xD
