@@ -46,7 +46,7 @@ Où j'en étais?
 
 * "On en était à la mort tragique du petit ourson..."
 
-Ah c'est juste. Je propose une minute de silence pour tous les oursons mort cette année.
+Ah c'est juste. Je propose une minute de silence pour tous les oursons morts cette année.
 
 * "..."
 * "..."
