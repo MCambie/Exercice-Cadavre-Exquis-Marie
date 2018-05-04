@@ -1,4 +1,4 @@
-# Il était une fois... 
+﻿# Il était une fois... 
 Il était une fois, un petit octocat qui s'en allait promener chez BeCode.
 
 Plein de motivation il marche d'un air guilleret.
@@ -13,3 +13,6 @@ En chemin il rencontre un coach qui lui dit ...
 	</code>
 </pre>
 
+Ne comprenant rien il le regarda come un idiot.
+Après mûre délibération il retourna sur son ordi.
+ensuite il se remit à coder.
