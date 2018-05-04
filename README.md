@@ -59,3 +59,6 @@ Mais les gars serieusement !
 Elle est **OU** l'histoire!
 
 Non je *rigole*, c 'est marrant xD
+
+Le potentiel de vitesse de typographie d'un octocat c'est fou !
+8 bras pour coder ça laisse rêveur ...
