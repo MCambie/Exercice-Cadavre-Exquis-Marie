@@ -16,3 +16,11 @@ En chemin il rencontre un coach qui lui dit ...
 Ne comprenant rien il le regarda come un idiot.
 Après mûre délibération il retourna sur son ordi.
 ensuite il se remit à coder.
+
+Ca faisait déjà toute la matinée qu'il essayait de capter quelque chose 
+à GitHub !
+
+Mais c'était pas super easy..
+
+> "C'est en codant qu'on devient codeur, n'abandonne pas" lui lanca son 
+coach
