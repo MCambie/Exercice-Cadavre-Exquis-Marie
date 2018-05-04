@@ -36,3 +36,9 @@ Un petit ourson se promenait
 Il rencontra un **GRAND** ours.
 
 Et le petit ourson fut mangé.
+
+En parlant de manger j'ai eu le plaisir de manger un sandwich au brie ce midi.
+
+Mais on s'égare du sujet.
+
+Où j'en étais?
