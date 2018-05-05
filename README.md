@@ -65,3 +65,19 @@ Pendant ce temps-là le **GRAND** ours,ayant toujours faim s'attaqua à l'ami du
 Pour ce-là le *blaireau*  demanda à un loup, mais celui-ci dit "***Pourquoi demande tu ça à moi et pas aux serpents***".
 Le *blaireau* dit "***Je connais aucun serpent***".
 Le loup repont "*je vais te présenté mon amie GoBie*".
+
+## Nouveau Chapitre
+
+Bonjour à tous, 
+
+Je suis **Octocat**, et en ce samedi matin je m'entraine sur git.
+ 
+Et je m'entraine aussi avec le *markdown*.
+
+* Master
+  * Developpement
+  
+![Octocat](https://assets-cdn.github.com/images/modules/logos_page/Octocat.png)
+
+
+
